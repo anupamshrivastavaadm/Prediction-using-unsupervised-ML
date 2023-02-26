@@ -12,7 +12,13 @@ Here I have done some steps:
 6. Dropping the duplicate rows. (earlier it was 150 after dropping it was 147).
 7. After that checking the outliers in the numeric data.
 8. Outlier's definition:  In data analysis, outliers are data points that differ significantly from other data points in the dataset. Outliers may be caused by measurement errors, data processing errors, or they may represent legitimate but rare observations in the dataset. Outliers can have a significant impact on statistical analyses because they can bias the results or make them less reliable. For example, outliers can cause skewed distributions, inflate standard deviation, or distort regression lines. Therefore, identifying and handling outliers is an important step in data analysis. Outliers can be detected using various statistical methods, such as Z-score, modified Z-score, box plots, or kernel density estimation. Once identified, outliers can be removed, corrected, or imputed using appropriate techniques depending on the nature of the data and the research question at hand.
+
+![outliers](https://user-images.githubusercontent.com/118778677/221422681-67a6aa91-26b4-4972-928c-0cb80a0c3c96.jpg)
+
 9. Treating outliers present in the coulmn detected.
+
+![outliers1](https://user-images.githubusercontent.com/118778677/221422737-158ac82d-76d3-446a-a653-dbd680b2bb02.jpg)
+
 10. After that plotting the column using boxplot.
 11. After plotting, Understanding the data, then distributing the features by species.
 12. After that checking the correlation matrix and plotting using heatmap.
