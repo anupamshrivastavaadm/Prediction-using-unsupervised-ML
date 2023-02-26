@@ -26,7 +26,13 @@ Here I have done some steps:
 
 12. After that checking the correlation matrix and plotting using heatmap.
 13. Now applying K-means clustering, and determining the optimal value of K using Elbow Method and Plotting the graph.
+
+![Elbow](https://user-images.githubusercontent.com/118778677/221423051-6f56910e-0b79-4c72-a7d6-6c2127267e4d.jpg)
+
 14. Predicted cluster for sepal length and width.
+
+![prediction](https://user-images.githubusercontent.com/118778677/221423144-7dd0d29c-a8a6-4620-9dcb-1f246d0bfa9e.jpg)
+
 15. used lamda function to find the mean of the iris-setosa and iris-versicolor.
 16. Print the classification report.
 17. Representing that report into heatmap.
