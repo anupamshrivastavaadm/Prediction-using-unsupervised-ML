@@ -21,6 +21,9 @@ Here I have done some steps:
 
 10. After that plotting the column using boxplot.
 11. After plotting, Understanding the data, then distributing the features by species.
+
+![distribution](https://user-images.githubusercontent.com/118778677/221422919-92f29ad4-7399-495d-b3da-5f39ededb914.jpg)![distribution1](https://user-images.githubusercontent.com/118778677/221422935-5f44c37e-4283-4c99-b6ed-b9437a0fdef1.jpg)
+
 12. After that checking the correlation matrix and plotting using heatmap.
 13. Now applying K-means clustering, and determining the optimal value of K using Elbow Method and Plotting the graph.
 14. Predicted cluster for sepal length and width.
